@@ -13,3 +13,5 @@ Omg this diagram so wow
 [sample](../_assets/sample.pdf)
 
 ![](https://www.youtube.com/shorts/Br1fYA_vohk)
+
+I like GitHub more.

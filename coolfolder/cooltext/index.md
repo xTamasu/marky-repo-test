@@ -10,7 +10,7 @@ Omg this diagram so wow
 
 ![[DIAG-001]]
 
-[sample](../_assets/sample.pdf)
+[sample](../../_assets/sample.pdf)
 
 ![](https://www.youtube.com/shorts/Br1fYA_vohk)
 
